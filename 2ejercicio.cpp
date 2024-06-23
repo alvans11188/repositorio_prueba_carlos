@@ -4,6 +4,7 @@ aleatorios entre 0 y un número máximo especificado por el usuario. El programa s
 la cantidad de números aleatorios que desea generar y el valor máximo permitido. Utiliza la función 
 rand de la librería cstdlib para generar los números aleatorios.
 */
+/*Alex se la come*/
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
